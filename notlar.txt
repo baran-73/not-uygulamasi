@@ -1,0 +1,5 @@
+﻿ls - Dosya ve klasörleri listeler.
+cd - Klasör değiştirir.
+pwd - Mevcut dizini gösterir.
+mkdir - Yeni klasör oluşturur.
+cat - Dosya içeriğini görüntüler.

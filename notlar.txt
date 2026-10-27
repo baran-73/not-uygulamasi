@@ -3,3 +3,8 @@ cd - Klasör değiştirir.
 pwd - Mevcut dizini gösterir.
 mkdir - Yeni klasör oluşturur.
 cat - Dosya içeriğini görüntüler.
+git init - Git deposu oluşturur.
+git status - Dosyaların durumunu gösterir.
+git add - Dosyaları kayda hazırlamak için staging alanına ekler.
+git commit - Değişiklikleri kaydeder.
+git push - Commitleri uzak depoya gönderir.
